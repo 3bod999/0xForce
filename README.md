@@ -1,7 +1,5 @@
 # 0xForce - Fast Injection Tool
-
-![image](https://github.com/user-attachments/assets/cebb1f50-e290-42e5-bbb2-cdc58b30cd12)
-]
+![image](https://github.com/user-attachments/assets/c9c43a7d-9964-47c7-a242-e7366b34d266)
 
 
 > Tool by **abdlurhman** aka **0xsilver**
