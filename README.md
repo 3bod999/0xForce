@@ -39,49 +39,38 @@ python3 0xforce.py -u "https://target.com/login?user=0x1" --w1 users.txt
 | `--flength` | Filter by response size                |
 
 ---
+🔍 Example
 
-## 🔍 Example
-
-```bash
 python3 0xforce.py \
   -u "https://site.com/page.php?id=0x1" \
   --w1 ids.txt \
   --fstatus 404 \
   --output found.txt
-```
 
----
+🖼️ Screenshot
 
-## 📦 Wordlists
+Below is an example output of 0xForce when a valid result is found:
 
-Use simple `.txt` files, one word per line.
+
+
+📦 Wordlists
+
+Use simple .txt files, one word per line.
 
 Supports placeholders:
 
-* `0x1`, `0x2`, `0x3`, `0x4`
+0x1, 0x2, 0x3, 0x4
 
----
+🌐 Proxy Use
 
-## 🌐 Proxy Use
-
-```bash
 --proxy http://127.0.0.1:8080
 --proxies proxies.txt
-```
 
----
+💾 Install
 
-## 💾 Install
-
-```bash
 pip install requests rich
-```
 
----
+👤 Author
 
-## 👤 Author
-
-Made with ❤️ by **abdlurhman** aka **0xsilver**
+Made with ❤️ by abdlurhman aka 0xsilver
 For learning & research only.
-
----
