@@ -79,13 +79,6 @@ Supports placeholders:
 
 ---
 
-## 💾 Install
-
-```bash
-pip install requests rich
-```
-
----
 
 ## 👤 Author
 
