@@ -1,4 +1,4 @@
-#Fast Parallel Brute-force Tool
+# Fast Parallel Brute-force Tool
 
 ![image](https://github.com/user-attachments/assets/f85ea2e2-de2a-4897-bf72-f86aa951a635)
 
