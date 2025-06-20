@@ -55,7 +55,6 @@ python3 0xforce.py \
 
 ## 🖼️ Screenshot
 
-Below is an example output of 0xForce when a valid result is found:
 ![image](https://github.com/user-attachments/assets/363bc1c3-0ab1-4e5e-b3eb-491b9a4e7893)
 
 
