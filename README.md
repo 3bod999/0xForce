@@ -1,6 +1,7 @@
 # 0xForce - Fast Injection Tool
 
-![0xForce Banner](./22469fcc-5a14-4e92-9fa7-c308a752f22c.png)
+![0xForce Banner](![Uploading image.png…]()
+)
 
 > Tool by **abdlurhman** aka **0xsilver**
 
