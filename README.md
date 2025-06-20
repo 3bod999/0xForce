@@ -1,4 +1,4 @@
-# 0xForce - Fast Injection Tool
+#Fast Parallel Brute-force Tool
 
 ![image](https://github.com/user-attachments/assets/f85ea2e2-de2a-4897-bf72-f86aa951a635)
 
@@ -9,7 +9,7 @@
 
 ## ✅ What It Does
 
-* Fast injection tests
+* Uses placeholders like 0x1, 0x2, etc.
 * Brute-force using wordlists
 * Uses placeholders like `0x1`, `0x2`, etc.
 * Shows clean results in panels
