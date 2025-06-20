@@ -9,7 +9,6 @@
 
 ## ✅ What It Does
 
-* Uses placeholders like 0x1, 0x2, etc.
 * Brute-force using wordlists
 * Uses placeholders like `0x1`, `0x2`, etc.
 * Shows clean results in panels
